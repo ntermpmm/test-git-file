@@ -1,9 +1,8 @@
 feature-1
 feature-2
 
-line 3
-
-line 5
+add some test in this file
+no conflict
 sds-
 
 dsadsad
