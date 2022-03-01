@@ -4,4 +4,10 @@ add some test in this file
 
 sds-
 
+<<<<<<< HEAD
 line4
+=======
+dsadsad
+
+line5
+>>>>>>> feature-1
