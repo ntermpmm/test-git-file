@@ -1,13 +1,5 @@
-add some test in this file
+line 1
 
-add some test in this file
+line 3
 
-sds-
-
-<<<<<<< HEAD
-line4
-=======
-dsadsad
-
-line5
->>>>>>> feature-1
+line 5
